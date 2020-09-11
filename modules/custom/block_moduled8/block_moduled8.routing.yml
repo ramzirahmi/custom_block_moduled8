@@ -1,0 +1,7 @@
+block_moduled8.simple_form:
+ path: 'simple-form'
+ defaults:
+   _form: '\Drupal\block_moduled8\Form\SimpleForm'
+   _title: 'Our cool form'
+ requirements:
+   _permission: 'access content'

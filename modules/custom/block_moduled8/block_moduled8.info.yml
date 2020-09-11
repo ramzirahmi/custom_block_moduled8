@@ -1,0 +1,5 @@
+name: Block Module D8
+description: 'Creation Module Drupal 8'
+type: module
+core: 8.x
+package: custom
